@@ -1,21 +1,16 @@
-REACTIVA DRIVER COLOMBIA - V7
+PAQUETE DE LOGOS PARA REACTIVA DRIVER COLOMBIA
 
-Incluye:
-- Meta descripción y palabras clave.
-- Open Graph para Facebook/WhatsApp.
-- Imagen de portada: assets/portada-reactiva-driver.png
-- Favicon: assets/favicon.svg
-- QR Nequi y QR Daviplata.
-- Botones de compra y contacto por WhatsApp.
+Incluye cuatro archivos SVG independientes:
+- uber.svg
+- didi.svg
+- indrive.svg
+- rappi.svg
 
-IMPORTANTE:
-En index.html reemplaza TUUSUARIO por tu usuario real de GitHub en:
-- canonical
-- og:image
-- og:url
-- twitter:image
+Son recursos gráficos preparados para uso local en una página web, sin depender de enlaces externos.
+IMPORTANTE: los nombres y marcas pertenecen a sus respectivos propietarios. Verifica las guías de marca y permisos aplicables antes de utilizarlos comercialmente.
 
-Ejemplo:
-https://tuusuario.github.io/reactiva-driver-colombia/
-
-Para GitHub Pages, sube todo el contenido de esta carpeta al repositorio.
+Fuentes oficiales consultadas:
+Uber: https://developer.uber.com/docs/riders/guides/design-guidelines
+DiDi: https://web.didiglobal.com/co/pasajero/
+inDrive: https://company.indrive.com/es
+Rappi: https://about.rappi.com/about-us
